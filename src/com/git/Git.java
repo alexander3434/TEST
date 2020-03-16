@@ -62,3 +62,4 @@ public class Git {
 //
 //# Игнорировать все .txt файлы в директории doc/
 //doc/**/*.txt
+// sup change
